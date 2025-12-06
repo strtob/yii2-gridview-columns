@@ -1,0 +1,314 @@
+/* CSS for ISO 639-1 language codes with flags */
+
+.language-flag::before {
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.language-flag.en::before {
+    content: "🇬🇧";
+}
+
+/* English */
+.language-flag.es::before {
+    content: "🇪🇸";
+}
+
+/* Spanish */
+.language-flag.fr::before {
+    content: "🇫🇷";
+}
+
+/* French */
+.language-flag.de::before {
+    content: "🇩🇪";
+}
+
+/* German */
+.language-flag.it::before {
+    content: "🇮🇹";
+}
+
+/* Italian */
+.language-flag.zh::before {
+    content: "🇨🇳";
+}
+
+/* Chinese */
+.language-flag.ja::before {
+    content: "🇯🇵";
+}
+
+/* Japanese */
+.language-flag.ru::before {
+    content: "🇷🇺";
+}
+
+/* Russian */
+.language-flag.pt::before {
+    content: "🇵🇹";
+}
+
+/* Portuguese */
+.language-flag.ar::before {
+    content: "🇸🇦";
+}
+
+/* Arabic */
+.language-flag.hi::before {
+    content: "🇮🇳";
+}
+
+/* Hindi */
+/* Continue for all ISO 639-1 languages */
+
+.language-flag.af::before {
+    content: "🇿🇦";
+}
+
+/* Afrikaans */
+.language-flag.sq::before {
+    content: "🇦🇱";
+}
+
+/* Albanian */
+.language-flag.am::before {
+    content: "🇪🇹";
+}
+
+/* Amharic */
+.language-flag.hy::before {
+    content: "🇦🇲";
+}
+
+/* Armenian */
+.language-flag.az::before {
+    content: "🇦🇿";
+}
+
+/* Azerbaijani */
+.language-flag.eu::before {
+    content: "🇪🇸";
+}
+
+/* Basque */
+.language-flag.bn::before {
+    content: "🇧🇩";
+}
+
+/* Bengali */
+.language-flag.bs::before {
+    content: "🇧🇦";
+}
+
+/* Bosnian */
+.language-flag.bg::before {
+    content: "🇧🇬";
+}
+
+/* Bulgarian */
+.language-flag.ca::before {
+    content: "🇪🇸";
+}
+
+/* Catalan */
+.language-flag.hr::before {
+    content: "🇭🇷";
+}
+
+/* Croatian */
+.language-flag.cs::before {
+    content: "🇨🇿";
+}
+
+/* Czech */
+.language-flag.da::before {
+    content: "🇩🇰";
+}
+
+/* Danish */
+.language-flag.nl::before {
+    content: "🇳🇱";
+}
+
+/* Dutch */
+.language-flag.eo::before {
+    content: "🌍";
+}
+
+/* Esperanto */
+.language-flag.et::before {
+    content: "🇪🇪";
+}
+
+/* Estonian */
+.language-flag.fi::before {
+    content: "🇫🇮";
+}
+
+/* Finnish */
+.language-flag.gl::before {
+    content: "🇪🇸";
+}
+
+/* Galician */
+.language-flag.el::before {
+    content: "🇬🇷";
+}
+
+/* Greek */
+.language-flag.gu::before {
+    content: "🇮🇳";
+}
+
+/* Gujarati */
+.language-flag.he::before {
+    content: "🇮🇱";
+}
+
+/* Hebrew */
+.language-flag.hu::before {
+    content: "🇭🇺";
+}
+
+/* Hungarian */
+.language-flag.is::before {
+    content: "🇮🇸";
+}
+
+/* Icelandic */
+.language-flag.id::before {
+    content: "🇮🇩";
+}
+
+/* Indonesian */
+.language-flag.ga::before {
+    content: "🇮🇪";
+}
+
+/* Irish */
+.language-flag.ko::before {
+    content: "🇰🇷";
+}
+
+/* Korean */
+.language-flag.la::before {
+    content: "🌍";
+}
+
+/* Latin */
+.language-flag.lv::before {
+    content: "🇱🇻";
+}
+
+/* Latvian */
+.language-flag.lt::before {
+    content: "🇱🇹";
+}
+
+/* Lithuanian */
+.language-flag.mk::before {
+    content: "🇲🇰";
+}
+
+/* Macedonian */
+.language-flag.ms::before {
+    content: "🇲🇾";
+}
+
+/* Malay */
+.language-flag.mt::before {
+    content: "🇲🇹";
+}
+
+/* Maltese */
+.language-flag.ne::before {
+    content: "🇳🇵";
+}
+
+/* Nepali */
+.language-flag.no::before {
+    content: "🇳🇴";
+}
+
+/* Norwegian */
+.language-flag.fa::before {
+    content: "🇮🇷";
+}
+
+/* Persian */
+.language-flag.pl::before {
+    content: "🇵🇱";
+}
+
+/* Polish */
+.language-flag.ro::before {
+    content: "🇷🇴";
+}
+
+/* Romanian */
+.language-flag.sr::before {
+    content: "🇷🇸";
+}
+
+/* Serbian */
+.language-flag.sk::before {
+    content: "🇸🇰";
+}
+
+/* Slovak */
+.language-flag.sl::before {
+    content: "🇸🇮";
+}
+
+/* Slovenian */
+.language-flag.so::before {
+    content: "🇸🇴";
+}
+
+/* Somali */
+.language-flag.sw::before {
+    content: "🇰🇪";
+}
+
+/* Swahili */
+.language-flag.sv::before {
+    content: "🇸🇪";
+}
+
+/* Swedish */
+.language-flag.ta::before {
+    content: "🇮🇳";
+}
+
+/* Tamil */
+.language-flag.te::before {
+    content: "🇮🇳";
+}
+
+/* Telugu */
+.language-flag.th::before {
+    content: "🇹🇭";
+}
+
+/* Thai */
+.language-flag.tr::before {
+    content: "🇹🇷";
+}
+
+/* Turkish */
+.language-flag.uk::before {
+    content: "🇺🇦";
+}
+
+/* Ukrainian */
+.language-flag.ur::before {
+    content: "🇵🇰";
+}
+
+/* Urdu */
+.language-flag.vi::before {
+    content: "🇻🇳";
+}
+
+/* Vietnamese */
